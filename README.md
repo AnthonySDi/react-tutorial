@@ -1,3 +1,7 @@
+# Why I did this:
+
+For an internship, they asked that I complete the tutorial to demonstrate a basic level of understanding of React. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
